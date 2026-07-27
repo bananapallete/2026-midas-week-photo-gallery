@@ -1,0 +1,867 @@
+{
+  "title": "2026 MIDAS WEEK Photo Gallery",
+  "polaroids": [
+    "images/polaroids/1.png",
+    "images/polaroids/2.png",
+    "images/polaroids/3.png",
+    "images/polaroids/4.png",
+    "images/polaroids/5.png",
+    "images/polaroids/6.png",
+    "images/polaroids/7.png",
+    "images/polaroids/8.png",
+    "images/polaroids/9.png",
+    "images/polaroids/10.png",
+    "images/polaroids/11.png",
+    "images/polaroids/12.png",
+    "images/polaroids/13.png",
+    "images/polaroids/14.png",
+    "images/polaroids/15.png",
+    "images/polaroids/16.png",
+    "images/polaroids/17.png",
+    "images/polaroids/18.png",
+    "images/polaroids/19.png",
+    "images/polaroids/20.png",
+    "images/polaroids/21.png",
+    "images/polaroids/22.png",
+    "images/polaroids/23.png",
+    "images/polaroids/24.png",
+    "images/polaroids/25.png",
+    "images/polaroids/26.png",
+    "images/polaroids/27.png",
+    "images/polaroids/28.png",
+    "images/polaroids/29.png",
+    "images/polaroids/30.png",
+    "images/polaroids/31.png",
+    "images/polaroids/32.png",
+    "images/polaroids/33.png"
+  ],
+  "affiliations": [
+    {
+      "id": "group",
+      "label": "단체사진",
+      "type": "flat",
+      "photos": [
+        {
+          "thumb": "images/thumbs/group/1.jpg",
+          "full": "images/full/group/1.jpg"
+        },
+        {
+          "thumb": "images/thumbs/group/2.jpg",
+          "full": "images/full/group/2.jpg"
+        },
+        {
+          "thumb": "images/thumbs/group/3.jpg",
+          "full": "images/full/group/3.jpg"
+        },
+        {
+          "thumb": "images/thumbs/group/4.jpg",
+          "full": "images/full/group/4.jpg"
+        },
+        {
+          "thumb": "images/thumbs/group/5.jpg",
+          "full": "images/full/group/5.jpg"
+        },
+        {
+          "thumb": "images/thumbs/group/6.jpg",
+          "full": "images/full/group/6.jpg"
+        }
+      ]
+    },
+    {
+      "id": "rpm",
+      "label": "RPM",
+      "type": "folders",
+      "groups": [
+        {
+          "kr": "해외사업",
+          "en": "Global Business",
+          "divisions": [
+            {
+              "slug": "enr",
+              "kr": "ENR TF",
+              "en": "ENR TF",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/enr/1.jpg",
+                  "full": "images/full/enr/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/enr/2.jpg",
+                  "full": "images/full/enr/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/enr/3.jpg",
+                  "full": "images/full/enr/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/enr/4.jpg",
+                  "full": "images/full/enr/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/enr/5.jpg",
+                  "full": "images/full/enr/5.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/enr/6.jpg",
+                  "full": "images/full/enr/6.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/enr/7.jpg",
+                  "full": "images/full/enr/7.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "asia-biz",
+              "kr": "아시아사업팀",
+              "en": "Asia BIZ Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/asia-biz/1.jpg",
+                  "full": "images/full/asia-biz/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/asia-biz/2.jpg",
+                  "full": "images/full/asia-biz/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/asia-biz/3.jpg",
+                  "full": "images/full/asia-biz/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/asia-biz/4.jpg",
+                  "full": "images/full/asia-biz/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/asia-biz/5.jpg",
+                  "full": "images/full/asia-biz/5.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/asia-biz/6.jpg",
+                  "full": "images/full/asia-biz/6.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/asia-biz/7.jpg",
+                  "full": "images/full/asia-biz/7.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kr": "해외법인",
+          "en": "Overseas Subsidiaries",
+          "divisions": [
+            {
+              "slug": "china",
+              "kr": "중국법인",
+              "en": "China Branch",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/china/1.jpg",
+                  "full": "images/full/china/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/2.jpg",
+                  "full": "images/full/china/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/3.jpg",
+                  "full": "images/full/china/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/4.jpg",
+                  "full": "images/full/china/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/5.jpg",
+                  "full": "images/full/china/5.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/6.jpg",
+                  "full": "images/full/china/6.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/7.jpg",
+                  "full": "images/full/china/7.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/8.jpg",
+                  "full": "images/full/china/8.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/9.jpg",
+                  "full": "images/full/china/9.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/10.jpg",
+                  "full": "images/full/china/10.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/11.jpg",
+                  "full": "images/full/china/11.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/12.jpg",
+                  "full": "images/full/china/12.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/13.jpg",
+                  "full": "images/full/china/13.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/14.jpg",
+                  "full": "images/full/china/14.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/china/15.jpg",
+                  "full": "images/full/china/15.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "japan",
+              "kr": "일본법인",
+              "en": "Japan Branch",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/japan/1.jpg",
+                  "full": "images/full/japan/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/japan/2.jpg",
+                  "full": "images/full/japan/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/japan/3.jpg",
+                  "full": "images/full/japan/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/japan/4.jpg",
+                  "full": "images/full/japan/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/japan/5.jpg",
+                  "full": "images/full/japan/5.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "russia",
+              "kr": "러시아법인",
+              "en": "Russia Branch",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/russia/1.jpg",
+                  "full": "images/full/russia/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/russia/2.jpg",
+                  "full": "images/full/russia/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/russia/3.jpg",
+                  "full": "images/full/russia/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/russia/4.jpg",
+                  "full": "images/full/russia/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/russia/5.jpg",
+                  "full": "images/full/russia/5.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "americas",
+              "kr": "미주법인",
+              "en": "Americas Branch",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/americas/1.jpg",
+                  "full": "images/full/americas/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/americas/2.jpg",
+                  "full": "images/full/americas/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/americas/3.jpg",
+                  "full": "images/full/americas/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/americas/4.jpg",
+                  "full": "images/full/americas/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/americas/5.jpg",
+                  "full": "images/full/americas/5.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/americas/6.jpg",
+                  "full": "images/full/americas/6.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/americas/7.jpg",
+                  "full": "images/full/americas/7.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "philippines",
+              "kr": "필리핀법인",
+              "en": "Philippines Branch",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/philippines/1.jpg",
+                  "full": "images/full/philippines/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/philippines/2.jpg",
+                  "full": "images/full/philippines/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/philippines/3.jpg",
+                  "full": "images/full/philippines/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/philippines/4.jpg",
+                  "full": "images/full/philippines/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/philippines/5.jpg",
+                  "full": "images/full/philippines/5.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/philippines/6.jpg",
+                  "full": "images/full/philippines/6.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "australia",
+              "kr": "호주법인",
+              "en": "Australia Branch",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/australia/1.jpg",
+                  "full": "images/full/australia/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/australia/2.jpg",
+                  "full": "images/full/australia/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/australia/3.jpg",
+                  "full": "images/full/australia/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/australia/4.jpg",
+                  "full": "images/full/australia/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/australia/5.jpg",
+                  "full": "images/full/australia/5.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "europe",
+              "kr": "유럽법인",
+              "en": "Europe Branch",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/europe/1.jpg",
+                  "full": "images/full/europe/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/europe/2.jpg",
+                  "full": "images/full/europe/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/europe/3.jpg",
+                  "full": "images/full/europe/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/europe/4.jpg",
+                  "full": "images/full/europe/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/europe/5.jpg",
+                  "full": "images/full/europe/5.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/europe/6.jpg",
+                  "full": "images/full/europe/6.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "india",
+              "kr": "인도법인",
+              "en": "India Branch",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/india/1.jpg",
+                  "full": "images/full/india/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/india/2.jpg",
+                  "full": "images/full/india/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/india/3.jpg",
+                  "full": "images/full/india/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/india/4.jpg",
+                  "full": "images/full/india/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/india/5.jpg",
+                  "full": "images/full/india/5.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/india/6.jpg",
+                  "full": "images/full/india/6.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/india/7.jpg",
+                  "full": "images/full/india/7.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kr": "국내사업",
+          "en": "Domestic Business",
+          "divisions": [
+            {
+              "slug": "southern",
+              "kr": "남부사업TF",
+              "en": "Southern BIZ TF",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/southern/1.jpg",
+                  "full": "images/full/southern/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/southern/2.jpg",
+                  "full": "images/full/southern/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/southern/3.jpg",
+                  "full": "images/full/southern/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/southern/4.jpg",
+                  "full": "images/full/southern/4.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/southern/5.jpg",
+                  "full": "images/full/southern/5.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "structural",
+              "kr": "구조사업팀",
+              "en": "Structural BIZ Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/structural/1.jpg",
+                  "full": "images/full/structural/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/structural/2.jpg",
+                  "full": "images/full/structural/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/structural/3.jpg",
+                  "full": "images/full/structural/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/structural/4.jpg",
+                  "full": "images/full/structural/4.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "architecture",
+              "kr": "건축사업팀",
+              "en": "Architecture BIZ Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/architecture/1.jpg",
+                  "full": "images/full/architecture/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/architecture/2.jpg",
+                  "full": "images/full/architecture/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/architecture/3.jpg",
+                  "full": "images/full/architecture/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/architecture/4.jpg",
+                  "full": "images/full/architecture/4.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "geotech",
+              "kr": "지반사업TF",
+              "en": "Geotechnical BIZ TF",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/geotech/1.jpg",
+                  "full": "images/full/geotech/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/geotech/2.jpg",
+                  "full": "images/full/geotech/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/geotech/3.jpg",
+                  "full": "images/full/geotech/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/geotech/4.jpg",
+                  "full": "images/full/geotech/4.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "mechanical",
+              "kr": "기계사업팀",
+              "en": "Mechanical BIZ Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/mechanical/1.jpg",
+                  "full": "images/full/mechanical/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/mechanical/2.jpg",
+                  "full": "images/full/mechanical/2.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kr": "개발부문",
+          "en": "Development",
+          "divisions": [
+            {
+              "slug": "ensol",
+              "kr": "엔솔개발팀",
+              "en": "EnSol DEV Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/ensol/1.jpg",
+                  "full": "images/full/ensol/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/ensol/2.jpg",
+                  "full": "images/full/ensol/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/ensol/3.jpg",
+                  "full": "images/full/ensol/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/ensol/4.jpg",
+                  "full": "images/full/ensol/4.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "design-dev",
+              "kr": "설계개발팀",
+              "en": "Design DEV Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/design-dev/1.jpg",
+                  "full": "images/full/design-dev/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/design-dev/2.jpg",
+                  "full": "images/full/design-dev/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/design-dev/3.jpg",
+                  "full": "images/full/design-dev/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/design-dev/4.jpg",
+                  "full": "images/full/design-dev/4.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "max-tf",
+              "kr": "MAX TF",
+              "en": "MAX TF",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/max-tf/1.jpg",
+                  "full": "images/full/max-tf/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/max-tf/2.jpg",
+                  "full": "images/full/max-tf/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/max-tf/3.jpg",
+                  "full": "images/full/max-tf/3.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "tech-planning",
+              "kr": "기술기획팀",
+              "en": "Technical Planning Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/tech-planning/1.jpg",
+                  "full": "images/full/tech-planning/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/tech-planning/2.jpg",
+                  "full": "images/full/tech-planning/2.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "motiiv",
+              "kr": "모티브개발팀",
+              "en": "MOTIIV DEV Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/motiiv/1.jpg",
+                  "full": "images/full/motiiv/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/motiiv/2.jpg",
+                  "full": "images/full/motiiv/2.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/motiiv/3.jpg",
+                  "full": "images/full/motiiv/3.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/motiiv/4.jpg",
+                  "full": "images/full/motiiv/4.jpg"
+                }
+              ]
+            },
+            {
+              "slug": "web-services",
+              "kr": "웹서비스개발팀",
+              "en": "Web Services DEV Team",
+              "photos": [
+                {
+                  "thumb": "images/thumbs/web-services/1.jpg",
+                  "full": "images/full/web-services/1.jpg"
+                },
+                {
+                  "thumb": "images/thumbs/web-services/2.jpg",
+                  "full": "images/full/web-services/2.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sk",
+      "label": "SK",
+      "type": "flat",
+      "photos": [
+        {
+          "thumb": "images/thumbs/sk/1.jpg",
+          "full": "images/full/sk/1.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/2.jpg",
+          "full": "images/full/sk/2.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/3.jpg",
+          "full": "images/full/sk/3.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/4.jpg",
+          "full": "images/full/sk/4.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/5.jpg",
+          "full": "images/full/sk/5.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/6.jpg",
+          "full": "images/full/sk/6.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/7.jpg",
+          "full": "images/full/sk/7.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/8.jpg",
+          "full": "images/full/sk/8.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/9.jpg",
+          "full": "images/full/sk/9.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/10.jpg",
+          "full": "images/full/sk/10.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/11.jpg",
+          "full": "images/full/sk/11.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/12.jpg",
+          "full": "images/full/sk/12.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/13.jpg",
+          "full": "images/full/sk/13.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/14.jpg",
+          "full": "images/full/sk/14.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/15.jpg",
+          "full": "images/full/sk/15.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/16.jpg",
+          "full": "images/full/sk/16.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/17.jpg",
+          "full": "images/full/sk/17.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/18.jpg",
+          "full": "images/full/sk/18.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/19.jpg",
+          "full": "images/full/sk/19.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/20.jpg",
+          "full": "images/full/sk/20.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/21.jpg",
+          "full": "images/full/sk/21.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/22.jpg",
+          "full": "images/full/sk/22.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/23.jpg",
+          "full": "images/full/sk/23.jpg"
+        },
+        {
+          "thumb": "images/thumbs/sk/24.jpg",
+          "full": "images/full/sk/24.jpg"
+        }
+      ]
+    },
+    {
+      "id": "gibaan",
+      "label": "기반",
+      "type": "flat",
+      "photos": [
+        {
+          "thumb": "images/thumbs/gibaan/1.jpg",
+          "full": "images/full/gibaan/1.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/2.jpg",
+          "full": "images/full/gibaan/2.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/3.jpg",
+          "full": "images/full/gibaan/3.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/4.jpg",
+          "full": "images/full/gibaan/4.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/5.jpg",
+          "full": "images/full/gibaan/5.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/6.jpg",
+          "full": "images/full/gibaan/6.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/7.jpg",
+          "full": "images/full/gibaan/7.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/8.jpg",
+          "full": "images/full/gibaan/8.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/9.jpg",
+          "full": "images/full/gibaan/9.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/10.jpg",
+          "full": "images/full/gibaan/10.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/11.jpg",
+          "full": "images/full/gibaan/11.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/12.jpg",
+          "full": "images/full/gibaan/12.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/13.jpg",
+          "full": "images/full/gibaan/13.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/14.jpg",
+          "full": "images/full/gibaan/14.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/15.jpg",
+          "full": "images/full/gibaan/15.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/16.jpg",
+          "full": "images/full/gibaan/16.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/17.jpg",
+          "full": "images/full/gibaan/17.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/18.jpg",
+          "full": "images/full/gibaan/18.jpg"
+        },
+        {
+          "thumb": "images/thumbs/gibaan/19.jpg",
+          "full": "images/full/gibaan/19.jpg"
+        }
+      ]
+    }
+  ]
+}
